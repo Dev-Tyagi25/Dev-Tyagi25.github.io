@@ -22,7 +22,7 @@ a{
 
 }
 #nameContainer{
-  background-image: url("http://www.webtechelp.net/wp-content/uploads/2014/05/Website-Background.jpg");
+  background-image: url("./images/Website-Background.jpg");
     height: 100%;
     width: 100%;
     position: relative;
