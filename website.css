@@ -1,0 +1,70 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  height: 100%;
+  width: 100%;
+}
+
+nav{
+  width: 50%;
+  margin: 10px auto;
+}
+
+h5.card-header{
+  color: white;
+}
+
+a{
+  text-decoration: none;
+
+}
+#nameContainer{
+  background-image: url("http://www.webtechelp.net/wp-content/uploads/2014/05/Website-Background.jpg");
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 0;
+    display: table;
+}
+
+#cover{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: -1;
+}
+
+#name{
+  color: white;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#about,#contact{
+  text-align: center;
+}
+
+#contact{
+  background-image: url("https://avante.biz/wp-content/uploads/Background-Images-For-Websites/Background-Images-For-Websites-003.jpg");
+  color: white;
+}
+
+#contact hr{
+  background-color: white;
+}
+div.card{
+  min-height:310px;
+  margin-bottom: 10px;
+}
+
+svg{
+  width: 30%;
+  color: white;
+}
